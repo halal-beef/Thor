@@ -1,4 +1,5 @@
 ![badges](https://img.shields.io/github/contributors/Samsung-Loki/Thor.svg)
+a
 ![badges](https://img.shields.io/github/forks/Samsung-Loki/Thor.svg)
 ![badges](https://img.shields.io/github/stars/Samsung-Loki/Thor.svg)
 ![badges](https://img.shields.io/github/issues/Samsung-Loki/Thor.svg)
